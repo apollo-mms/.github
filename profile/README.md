@@ -13,6 +13,4 @@ We are a **branch** of @apollotwenty. We are the main branch as we are where H a
 
 ## LEGAL NOTICE
 
-Our legal notice to SUSD is in here: (soon)
-
-(The purpose of this is to let SUSD know our purpose and to tell them they can't legally do anything as we do not techinally operate in SUSD but outside of it.)
+Our legal notice to SUSD is in here: https://github.com/apollo-mms/LEGAL
