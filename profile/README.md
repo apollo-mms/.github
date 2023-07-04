@@ -10,6 +10,12 @@ We are a **branch** of @apollotwenty. We are the main branch as we are where H a
 
 **Atomic** is a USB that has some of **Hades** links in it.
 
+**Eris** is a private games site
+
+**Poesiden** is a public games site.
+
+**Hermes** is a links market place.
+
 
 ## LEGAL NOTICE
 
