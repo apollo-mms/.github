@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are a **branch** of @apollotwenty. We are the main branch as we are where H and his team go to. 
+We are a **branch** of @apollotwenty. We are the main branch as we are where H and his team go to. Our goal is to bring back Student Internet Rights.
 
 
 ## Projects 
